@@ -1,0 +1,7 @@
+var _gaq = _gaq || [];
+_gaq.push([
+    '_setAccount',
+    'UA-35944549-1'
+]), _gaq.push(['_trackPageview']), function (a, b) {
+    a = document.createElement('script'), a.type = 'text/javascript', a.async = !0, a.src = 'https:' == document.location.protocol ? 'https://ssl.google-analytics.com/ga.js' : 'http://www.google-analytics.com/ga.js', b = document.getElementsByTagName('script')[0], b.parentNode.insertBefore(a, b);
+}();
